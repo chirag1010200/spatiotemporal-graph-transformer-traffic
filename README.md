@@ -16,6 +16,8 @@ For this reason, the notebook cells are **not intended to be re-executed**.
 Tested on TensorFlow 2.x (Kaggle environment).
 
 ---
+#Links
+Kaggle Notebook: https://www.kaggle.com/code/chirag1016/tanformergnnfinalmodel/notebook
 
 ## Dataset
 Download the METR-LA dataset from Kaggle:
@@ -30,3 +32,4 @@ Place the files inside a `data/` folder:
 ## How to Run
 ```bash
 pip install -r requirements.txt
+
